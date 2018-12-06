@@ -17,4 +17,4 @@
 6.Keep improving	
 	A podcast is never perfect. Continue is keep pushing to improve your show and draw in a bigger audience. 
 	
-(Video Directions)[https://www.youtube.com/watch?v=SF6WmxRIeHg]
+(Directions)[https://www.youtube.com/watch?v=SF6WmxRIeHg]
