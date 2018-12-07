@@ -17,4 +17,6 @@
 6. Keep improving	
 * A podcast is never perfect. Continue is keep pushing to improve your show and draw in a bigger audience. 
 	
-[directions](https://www.youtube.com/watch?v=SF6WmxRIeHg)
+[Video Directions](https://www.youtube.com/watch?v=SF6WmxRIeHg)
+
+[Title Page](https://github.com/KierstenPatriciaHill/readme2.md/blob/master/How%20to%20Make%20A%20Bomb%20Podcast.md)
