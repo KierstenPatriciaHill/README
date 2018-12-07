@@ -18,5 +18,7 @@
   * Once you’re happy with your work, upload it. Itunes, Spotify and soundcloud are great places to promote your work. 
 6. Keep improving	
 * A podcast is never perfect. Continue is keep pushing to improve your show and draw in a bigger audience. 
-	
+
+* But now you have a podcast! ![](https://media.giphy.com/media/Ftz07proVX6Rq/giphy.gif)
+
 [Video Directions](https://www.youtube.com/watch?v=SF6WmxRIeHg)
