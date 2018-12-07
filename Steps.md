@@ -1,3 +1,5 @@
+[Title Page](https://github.com/KierstenPatriciaHill/readme2.md/blob/master/How%20to%20Make%20A%20Bomb%20Podcast.md)
+
 1. Find your topic
   * Think of something you like, inspires you, or something you just know a lot about. Think about the people you want to listen aka whos your demographic?
   * Take into account your personality, you shouldn’t be too far out of your comfort zone.
@@ -18,5 +20,3 @@
 * A podcast is never perfect. Continue is keep pushing to improve your show and draw in a bigger audience. 
 	
 [Video Directions](https://www.youtube.com/watch?v=SF6WmxRIeHg)
-
-[Title Page](https://github.com/KierstenPatriciaHill/readme2.md/blob/master/How%20to%20Make%20A%20Bomb%20Podcast.md)
