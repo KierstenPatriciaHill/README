@@ -1,4 +1,4 @@
-[Title Page](https://github.com/KierstenPatriciaHill/readme2.md/blob/master/How%20to%20Make%20A%20Bomb%20Podcast.md)
+[How To Make A Bomb Podcast](https://github.com/KierstenPatriciaHill/readme2.md/blob/master/How%20to%20Make%20A%20Bomb%20Podcast.md)
 
 1. Find your topic
   * Think of something you like, inspires you, or something you just know a lot about. Think about the people you want to listen aka whos your demographic?
